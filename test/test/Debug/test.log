@@ -1,7 +1,6 @@
-﻿  stdafx.cpp
-  base64.cpp
-c:\users\artis\github\cpp-base64-encoder\test\test\base64.cpp(69): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
-c:\users\artis\github\cpp-base64-encoder\test\test\base64.cpp(83): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+﻿  base64.cpp
+c:\users\artis\github\cpp-base64-encoder\test\test\base64.cpp(28): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+c:\users\artis\github\cpp-base64-encoder\test\test\base64.cpp(42): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
   test.cpp
   Generating Code...
   test.vcxproj -> C:\Users\Artis\Github\cpp-base64-encoder\test\Debug\test.exe
